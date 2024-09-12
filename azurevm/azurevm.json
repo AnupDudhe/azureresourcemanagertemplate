@@ -31,8 +31,8 @@
                   "networkSecurityGroupName2": "armnsg2" , 
                   "vNetName": "arnvent" , 
                   "vNetSubnetName": "arnsub" ,
-                  "vNetAddressPrefixes": "arnpref" ,
-                  "vNetSubnetAddressPrefix": "arnsubpre" ,
+                  "vNetAddressPrefixes": "10.0.0.0/16" ,
+                  "vNetSubnetAddressPrefix": "10.0.1.0/24" ,
                   "networkInterfaceName": "arnnetworkinter" ,
                   "vmName": "ubuntu" 
 

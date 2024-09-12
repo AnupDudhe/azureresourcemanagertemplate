@@ -6,11 +6,11 @@
     "variables": {},
     "resources": [
         {
-            "name": "anupstorageaccount2",
+            "name": "anupstorageaccount3",
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2023-01-01",
             "tags": {
-                "displayName": "anupstorageaccount2"
+                "displayName": "anupstorageaccount3"
             },
             "location": "[resourceGroup().location]",
             "kind": "StorageV2",
